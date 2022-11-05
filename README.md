@@ -28,7 +28,7 @@ pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip instal
 
 Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjoy)
 
-```
+
 
 
 
